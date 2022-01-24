@@ -16,6 +16,6 @@ https://discord.gg/1953
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=ariscik&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=ariscik&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api?username=RysFriztche&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=RysFriztche&theme=radical" />
 </p>
