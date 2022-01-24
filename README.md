@@ -1,6 +1,6 @@
 # Hi there , I'm RYS 
 ![profile count](https://komarev.com/ghpvc/?username=ariscik&color=red)&nbsp;
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/ariscik)&nbsp;
+[![GitHub JaylenOzi](https://img.shields.io/github/followers/RysFriztche?label=follow&style=social)](https://github.com/RysFriztche)&nbsp;
 <a href="https://instagram.com/rysderler"><img src="https://img.shields.io/badge/@rysderler-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
